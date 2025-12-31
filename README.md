@@ -7,8 +7,8 @@
 6. Добавлен [Default Options](https://modrinth.com/mod/default-options) (при обновлении форка, ваши настройки графики, клавиш, не будут сбрасываться)
 7. Более новая версия LWJGL 3
 8. Последняя версия Forge
-9. <a href="https://example.com" target="_blank">Ссылка, открывающаяся в новой вкладке</a>
 
+<a href="http://example.com/" target="_blank">example</a>
 Рекомендованные требования:
 - Java 17 JRE
 - 6ГБ ОЗУ (Выделеной для сборки)?
