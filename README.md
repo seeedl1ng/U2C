@@ -1,4 +1,5 @@
 # UnChaotic Choice[U2C]
+[![TotalDownloads](https://img.shields.io/github/downloads/seeedl1ng/U2C/total?label=Загрузок)](https://github.com/seeedl1ng/U2C/releases "Download")
 ### -В чём отличия этого форка от оригинала?
 1. Исправления недочётов оригинала 
 2. Немного бо́льшая производительность
