@@ -8,7 +8,6 @@
 7. Более новая версия LWJGL 3
 8. Последняя версия Forge
 
-<a href="http://example.com/" target="_blank">example</a>
 Рекомендованные требования:
 - Java 17 JRE
 - 6ГБ ОЗУ (Выделеной для сборки)?
