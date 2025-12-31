@@ -16,7 +16,7 @@
 
 Оригинал: https://modrinth.com/modpack/chaotic_bp-release
 
-Discord канал Chaotic-а: https://discord.gg/R8zMSk9rXc
+Discord сервер Chaotic-а: https://discord.gg/R8zMSk9rXc
 <hr>
 Скриншот геймплея от LsheTapok | v1.0.3
 <img width="1919" height="1079" alt="LsheTapok" src="https://github.com/user-attachments/assets/dd9a83c4-09c3-471b-9bbb-3ecd328ae3b6" />
