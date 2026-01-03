@@ -1,4 +1,23 @@
+CHANGELOG | Unchaotic Choice v1.0.3 [Winter Update] 
+
+- Добавлены:
+  - Game Menu Remove GFARB
+- Настроил конфиги:
+  - No Chat Reports (полностью)
+  - Fancy menu (-fullscreen)
+- Удалены:
+  - Cherished Worlds
+  - WI Zoom
+  - Chunky
+  - ReForgedPlay
+
+%changelog:end%
+
+
 
 CHANGELOG | Unchaotic Choice v 1.0.2.1
+
 - Уменьшил прорисовку DH до 32 чанков
 - Прировнял все прорисовки, на максимальные для сервера 10 чанков
+
+%changelog:end%
